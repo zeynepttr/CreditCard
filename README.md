@@ -38,7 +38,7 @@ Finansal güvenlik uygulamalarında sahtekarlığı tespit edebilmek kadar, yanl
 - **k-Nearest Neighbors (kNN)** modeli de Random Forest'a çok yakın bir performans sergileyerek (%84.62 F1-Score) ikinci tercih edilebilir model olmuştur.
 - **Naive Bayes**, en yüksek Duyarlılığa (Recall - %84.69) ulaşıp olabildiğince çok *sahtekarı yakalamaya* eğilimli davransa da, Precision değerini %5.88'e kadar düşürerek binlerce normal işlemi sahte olarak işaretlemiş ve model bütünlüğünü kaybetmiştir.
 
-## Proje Dizin Yapısı (Nasıl Kullanılır?)
+## Proje Dizin Yapısı 
 Projeyi lokalinizde test etmek için hücreleri baştan sona çalıştırabilirsiniz.
 ```text
 archive (1)/
